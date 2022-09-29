@@ -1,6 +1,6 @@
 package at.ac.fhcampuswien;
 
-import java.util.Scanner;
+
 
 public class App {
 
